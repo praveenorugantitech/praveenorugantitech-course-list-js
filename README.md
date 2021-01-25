@@ -1,7 +1,8 @@
 # Course List developed using JavaScript
  
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-javascript-projects/master/praveenorugantitech-course-list/screenshot.PNG "Course List")
-
+<div>
+<img align="right" width="100%"  src="screenshot.PNG" />
+</div>
 
 [Live Demo](http://praveenorugantitech.github.io/praveenorugantitech-course-list-js/Demo)
 
